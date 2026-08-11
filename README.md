@@ -4,11 +4,21 @@
 
 ### 🛠️ Skills
 
-![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-lightgrey)
-![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+- Swift
+- SwiftUI
+- UIKit
+- OOP
+- MVC / MVVM
+- JSON / Codable
+- REST API
+- URLSession
+- GCD / Concurrency
+- Auto Layout
+- UITableView
+- UICollectionView
+- FileManager
+- Git / GitHub
+- Xcode
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nermin-salehli/)
