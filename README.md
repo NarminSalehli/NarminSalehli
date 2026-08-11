@@ -1,6 +1,6 @@
 # Hi, I"m Narmin
-###iOS Developer
+iOS Developer
 
 
-###Connect with me
--Linkedin
+Connect with me
+https://www.linkedin.com/in/nermin-salehli/
